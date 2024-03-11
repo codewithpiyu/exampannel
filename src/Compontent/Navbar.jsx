@@ -19,7 +19,7 @@ const Navbar = ({isToggle , onClickHandler}) => {
 
 
 {/* <FaBars className=" text-white me-4  cursor-pointer" onClick={()=>  setSidebarToggle(!sidebarToggle)}/> */}
-<span className="font-semibold text-white">E-commerce</span>
+{/* <span className="font-semibold text-white">E-commerce</span> */}
 
         </div>
 
